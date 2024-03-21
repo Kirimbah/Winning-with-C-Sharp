@@ -1,0 +1,4 @@
+Journal entry 0 3/21/2024 - 
+I'm officially starting my game development career today. I'll be making steps towards completing my first project game. So far the project has assets from itch.io, minor code for movement and collisions and a Tilemap with the world startings created.
+
+
