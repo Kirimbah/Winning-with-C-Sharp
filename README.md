@@ -10,3 +10,8 @@ February 9th, 2024
 I applied to a higher paying position within my company last week. I even got an interview. Nice! After the dust settled and the air cleared, I didn't get the position. Womp womp haha! It doesn't matter, I learned alot from the interview process. There is true value in talking with others. It's the reason why humans are so advanced. Language can be used as anything, even as a tool. Coding is a language, right?
 
 Anyway, I plan to do at least 30 minutes - 1 hour of C# studying a day. I'll upload my progress here too. Final thought: Why does everyone want to grow? What is their reason? I know mine, but it is fascinating how different everyone pushes themselves forward. Gonna go play games now! End sequence --- 
+
+july 7th 2024
+changed directions of winning with c# 
+starting with command line on The Odin Projects foundations course. 
+setting up my git with github and looking to be more active in the professional space. 
